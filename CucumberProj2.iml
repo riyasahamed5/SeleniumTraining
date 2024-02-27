@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.598" level="project" />
+    <orderEntry type="library" name="4.2.02" level="project" />
+    <orderEntry type="library" name="commons-io-2.4" level="project" />
+    <orderEntry type="library" name="4.13.2" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.593" level="project" />
+    <orderEntry type="library" name="poi-3.8-beta4" level="project" />
+    <orderEntry type="library" name="selenium-chrome-driver-3.141.59" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5913" level="project" />
+    <orderEntry type="library" name="library3" level="project" />
+    <orderEntry type="library" name="4.12" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5925" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.591" level="project" />
+    <orderEntry type="library" name="cucumber-junit-4.2.0" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5918" level="project" />
+    <orderEntry type="library" name="3.141.592" level="project" />
+    <orderEntry type="library" name="Selenium Standalone1" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5919" level="project" />
+    <orderEntry type="library" name="datatable-1.1.7" level="project" />
+    <orderEntry type="library" name="3.141.594" level="project" />
+    <orderEntry type="library" name="poi-ooxml-3.8-beta4" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5920" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5927" level="project" />
+    <orderEntry type="library" name="junit-4.13.2" level="project" />
+    <orderEntry type="library" name="commons-io-2.6" level="project" />
+    <orderEntry type="library" name="selenium-java-4.17.0" level="project" />
+    <orderEntry type="library" name="selenium-firefox-driver-3.141.59" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5921" level="project" />
+    <orderEntry type="library" name="webdrivermanager-5.0.3" level="project" />
+    <orderEntry type="library" name="commons-io-2.41" level="project" />
+    <orderEntry type="library" name="Downloads" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.596" level="project" />
+    <orderEntry type="library" name="library4" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5912" level="project" />
+    <orderEntry type="library" name="junit-4.1" level="project" />
+    <orderEntry type="library" name="webdrivermanager-5.5.0" level="project" />
+    <orderEntry type="library" name="commons-io-2.11.0" level="project" />
+    <orderEntry type="library" name="1.1.71" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5928" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5914" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5917" level="project" />
+    <orderEntry type="library" name="cucumber-java-4.2.0" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5922" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5923" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5924" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.597" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5916" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.592" level="project" />
+    <orderEntry type="library" name="library2" level="project" />
+    <orderEntry type="library" name="plugins" level="project" />
+    <orderEntry type="library" name="library" level="project" />
+    <orderEntry type="library" name="selenium-api-3.141.59" level="project" />
+    <orderEntry type="library" name="5.0.31" level="project" />
+    <orderEntry type="library" name="3.141.595" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.599" level="project" />
+    <orderEntry type="library" name="cucumber-core-4.2.0" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5910" level="project" />
+    <orderEntry type="library" name="Selenium Standalone" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5911" level="project" />
+    <orderEntry type="library" name="5.5.0" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5915" level="project" />
+    <orderEntry type="library" name="4.2.01" level="project" />
+    <orderEntry type="library" name="4.2.0" level="project" />
+    <orderEntry type="library" name="library5" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.594" level="project" />
+    <orderEntry type="library" name="3.8-beta4" level="project" />
+    <orderEntry type="library" name="selenium-support-3.141.59" level="project" />
+    <orderEntry type="library" name="library1" level="project" />
+    <orderEntry type="library" name="3.8-beta41" level="project" />
+    <orderEntry type="library" name="junit-4.12" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.595" level="project" />
+    <orderEntry type="library" name="3.141.5910" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.5926" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.59" level="project" />
+    <orderEntry type="library" name="2.4" level="project" />
+  </component>
+</module>
